@@ -1,6 +1,8 @@
 # The Big Famous gitignore file
 
 .vscode/
+*.dSYM
+*.o
 
 # End of File
 # What Do you have any problem?
